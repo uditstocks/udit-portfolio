@@ -102,10 +102,10 @@ export const personal = {
   title: "Agentic Ai Systems",
   location: "Bhopal, India",
   email: "uditsharma9981@gmail.com",
-  phone: "+91 86020 49101",
+  phone: "+91 8602049101",
   github: "https://github.com/uditstocks",
   githubHandle: "uditstocks",
-  linkedin: "https://linkedin.com/in/udit-sharma",
+  linkedin: "www.linkedin.com/in/udit-sharma-b89995290",
   linkedinHandle: "udit-sharma",
   // Drop / overwrite your latest résumé at: public/resume.pdf
   resumeUrl: "/resume.pdf",
