@@ -105,7 +105,7 @@ export const personal = {
   phone: "+91 8602049101",
   github: "https://github.com/uditstocks",
   githubHandle: "uditstocks",
-  linkedin: "www.linkedin.com/in/udit-sharma-b89995290",
+  linkedin: "www.linkedin.com/in/uditsharma9981",
   linkedinHandle: "udit-sharma",
   // Drop / overwrite your latest résumé at: public/resume.pdf
   resumeUrl: "/resume.pdf",
