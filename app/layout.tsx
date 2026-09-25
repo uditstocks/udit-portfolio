@@ -18,16 +18,16 @@ const inter = Inter({
 });
 
 const description =
-  "Udit Sharma — AI Engineer building agentic AI systems: multi-agent orchestration, RAG pipelines & LLM workflows. Open-source contributor to LangChain.";
+  "Udit Sharma - AI Engineer building agentic AI systems: multi-agent orchestration, RAG pipelines & LLM workflows. Open-source contributor to LangChain.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(personal.siteUrl),
   title: {
-    default: "Udit Sharma — AI Engineer · Agentic AI & LLM Systems",
+    default: "Udit Sharma - AI Engineer · Agentic AI & LLM Systems",
     template: "%s · Udit Sharma",
   },
   description,
-  applicationName: "Udit Sharma — Portfolio",
+  applicationName: "Udit Sharma - Portfolio",
   authors: [{ name: personal.name, url: personal.siteUrl }],
   creator: personal.name,
   publisher: personal.name,
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: personal.siteUrl,
-    siteName: `${personal.name} — Portfolio`,
-    title: "Udit Sharma — AI Engineer · Agentic Systems & LLM Orchestration",
+    siteName: `${personal.name} - Portfolio`,
+    title: "Udit Sharma - AI Engineer · Agentic Systems & LLM Orchestration",
     description,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Udit Sharma — AI Engineer",
+    title: "Udit Sharma - AI Engineer",
     description,
   },
   robots: {

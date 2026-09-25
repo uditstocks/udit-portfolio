@@ -139,7 +139,7 @@ export function Contact() {
             </span>
             {quote.text}
           </blockquote>
-          <figcaption className="quote-author">— {quote.author}</figcaption>
+          <figcaption className="quote-author">- {quote.author}</figcaption>
         </motion.figure>
       </div>
 

@@ -9,7 +9,7 @@ export default function NotFound() {
           lost in the graph.
         </h1>
         <p className="max-w-md text-lg text-muted">
-          this page doesn&apos;t exist — or an agent routed you somewhere it
+          this page doesn&apos;t exist - or an agent routed you somewhere it
           shouldn&apos;t have.
         </p>
         <Link href="/" className="pill pill-filled mt-2">

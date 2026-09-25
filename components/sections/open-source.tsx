@@ -33,7 +33,7 @@ export function OpenSource() {
           >
             langchain-ai/docs
           </a>{" "}
-          — the official LangChain documentation, used by thousands of developers.
+          - the official LangChain documentation, used by thousands of developers.
         </p>
 
         {/* metrics band */}

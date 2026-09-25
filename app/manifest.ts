@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "Udit Sharma The AI Engineer",
     short_name: "Udit Sharma",
     description:
-      "Portfolio of Udit Sharma — AI Engineer building agentic systems.",
+      "Portfolio of Udit Sharma - AI Engineer building agentic systems.",
     start_url: "/",
     display: "standalone",
     background_color: "#0d0d0d",
